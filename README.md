@@ -1,10 +1,8 @@
-![Screenshot of the application in the tray menu and the Discord status](./assets/idle.png)
-![Screenshot of the application in the tray menu and the Discord status](./assets/reading.png)
-![Screenshot of the application in the tray menu and the Discord status](./assets/editing.png)
-![Screenshot of the application in the tray menu and the Discord status](./assets/AFK.png)
-
 ![Contact Me](https://dcbadge.limes.pink/api/shield/1355912316176306356)
 &nbsp;
+![Buy me a coffee](https://img.shields.io/badge/Buy%20me%20a%20coffee-black?style=flat&logo=buymeacoffee&logoColor=black&color=FFDD00)](https://buymeacoffee.com/xingdelittledevil)
+&nbsp;
+![Support me on Ko-fi](https://ko-fi.com/img/button/buymecoffee-sm.png)](https://ko-fi.com/YOUR_KOFI_USERNAME)
 
 ---
 
@@ -24,6 +22,13 @@ These are some of the most notable features:
 - No admin permissions required
 
 ---
+
+![Screenshot of the application in the tray menu and the Discord status](./assets/idle.png)
+![Screenshot of the application in the tray menu and the Discord status](./assets/reading.png)
+![Screenshot of the application in the tray menu and the Discord status](./assets/editing.png)
+![Screenshot of the application in the tray menu and the Discord status](./assets/AFK.png)
+
+
 
 ## Download
 
