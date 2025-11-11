@@ -1,8 +1,10 @@
-[![Contact Me](https://dcbadge.limes.pink/api/shield/1355912316176306356)
+![Contact Me](https://dcbadge.limes.pink/api/shield/1355912316176306356)
 &nbsp;
 [![Buy me a coffee](https://img.shields.io/badge/Buy%20me%20a%20coffee-black?style=flat&logo=buymeacoffee&logoColor=black&color=FFDD00)](https://buymeacoffee.com/xingdelittledevil)
 &nbsp;
-[![Support me on Ko-fi](https://ko-fi.com/img/button/buymecoffee-sm.png)](https://ko-fi.com/xingdelittledevil)
+[![Support me Ko-fi](https://img.shields.io/badge/Ko–fi%20@xing_de_little_devil-ff5f5f?style=flat&logo=ko-fi&logoColor=white)](https://ko-fi.com/xingdelittledevil)
+&nbsp;
+
 
 ---
 
