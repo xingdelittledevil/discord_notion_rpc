@@ -1,4 +1,5 @@
-![Contact Me](https://dcbadge.limes.pink/api/shield/1355912316176306356)
+
+[![My Discord (1355912316176306356)](https://img.shields.io/badge/Discord-xing_de_little_devil-%235865F2.svg)](https://discord.com/users/1355912316176306356)
 &nbsp;
 [![Buy me a coffee](https://img.shields.io/badge/Buy%20me%20a%20coffee-black?style=flat&logo=buymeacoffee&logoColor=black&color=FFDD00)](https://buymeacoffee.com/xingdelittledevil)
 &nbsp;
